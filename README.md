@@ -1,1 +1,1 @@
-# MMWP
+The implementation of "Towards Cross-Modality Global Weather Prediction with Multi-Granular Spatio-Temporal Embeddings"
